@@ -3,11 +3,11 @@
 This analysis will look at where residential blackouts occurred during February 2021 in the Houston area. After mapping the blackout data onto census tracts, I'll look at the median income of the census tracts that were affected by residential blackouts compared to those that were not affected.
 
 ## Repository structure
-houston_power_crisis
-│   README.md
-│   .gitignore
-│   .Rmd
-│   .Rproj   
+    houston_power_crisis
+    │   README.md
+    │   .gitignore
+    │   .Rmd
+    │   .Rproj   
 
 ## Datasets
 1. Blackout TIF files
