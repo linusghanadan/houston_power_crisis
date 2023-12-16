@@ -17,8 +17,8 @@ This analysis will look at where residential blackouts occurred during February 
 
 ## Data references
 1. National Aeronautics and Space Administration (NASA). 2022. "Level-1 and Atmospheric Archive & Distribution System Distributed Active Archive Center (LAADS DAAC)". https://ladsweb.modaps.eosdis.nasa.gov/
-2. GeoFabrik. 2022. https://download.geofabrik.de/
-3. GeoFabrik. 2022. https://download.geofabrik.de/
+2. GeoFabrik. 2022. "OpenStreetMap Data Extracts". https://download.geofabrik.de/
+3. GeoFabrik. 2022. "OpenStreetMap Data Extracts". https://download.geofabrik.de/
 4. U.S. Census Bureau. 2019. "American Community Survey". https://www.census.gov/programs-surveys/acs
 
 ## Notes on data access
