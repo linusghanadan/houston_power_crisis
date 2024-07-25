@@ -1,6 +1,6 @@
 # Spatial Analysis of 2021 Houston Power Crisis
 ## Background
-In February 2021, Texas faced an unprecedented power crisis that left millions without electricity as a result of three winter storms (Ramsey, 2021). Struggling to meet the extraordinary demand for heating amid freezing temperatures, the Electric Reliability Council of Texas (ERCOT) implemented widespread blackouts to prevent a total grid collapse. In addition to exposing the vulnerabilities of Texas’s energy infrastructure, the crisis also prompted a nationwide discussion on the resilience of power grids in the face of extreme weather events.
+In February 2021, Texas faced an unprecedented power crisis that left millions without electricity as a result of three winter storms. Struggling to meet the extraordinary demand for heating amid freezing temperatures, the Electric Reliability Council of Texas (ERCOT) implemented widespread blackouts to prevent a total grid collapse. In addition to exposing the vulnerabilities of Texas’s energy infrastructure, the crisis also prompted a nationwide discussion on the resilience of power grids in the face of extreme weather events.
 
 ## Purpose
 This analysis will look at where residential blackouts occurred during February 2021 in the Houston area. After mapping the blackout data onto census tracts, I’ll look at the median income of the census tracts that were affected by residential blackouts compared to those that were not affected.
