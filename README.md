@@ -2,6 +2,10 @@
 
 ### Repository Structure
     houston_power_crisis
+    └───images
+        │   Side-by-side histograms of income distribution in census tracts: income-distribution.png
+        │   Map showing median income and residential blackout status of census tract: income-map.png
+        │   Map of census tracts with residential blackouts: residential-blackout-map.png
     │   README.md
     │   .gitignore
     │   .Rmd
