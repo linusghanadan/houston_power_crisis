@@ -31,5 +31,5 @@ Used data from NASA's VIIRS instrument to conduct a spatial analysis of the 2021
 3. GeoFabrik. 2022. "OpenStreetMap Data Extracts". https://download.geofabrik.de/
 4. U.S. Census Bureau. 2019. "American Community Survey". https://www.census.gov/programs-surveys/acs
 
-## Notes on Data Access
+### Notes on Data Access
 Data used in this analysis was stored locally and included in repositiory .gitignore file. Use data references to access the original data.
