@@ -1,6 +1,6 @@
 ## Spatial Analysis of 2021 Houston Power Crisis
 
-### [Link to Blog (with R code)](https://linusghanadan.github.io/blog/2024-1-20-post/)
+### [Link to Blog (includes R code, code output, and written analysis)](https://linusghanadan.github.io/blog/2024-1-20-post/)
 
 ### Repository Structure
     houston_power_crisis
