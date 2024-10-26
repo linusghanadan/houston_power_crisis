@@ -1,4 +1,4 @@
-## Spatial Analysis of 2021 Houston Power Crisis
+## Using NASA Data to analyze Residential Blackouts during Houston Power Crisis
 
 ### [Link to Blog (includes R code, code output, and written analysis)](https://linusghanadan.github.io/blog/2024-1-20-post/)
 
